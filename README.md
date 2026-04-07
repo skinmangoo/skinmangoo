@@ -1,4 +1,94 @@
-## Hi there 👋
+# Hi there👋:relaxed: 
+
+💻 I currently work in P5.js, Matter.js, Firebase, React-Native, game development, Python, AI, Data Science, Bootstrap and teaching programming.
+
+🌱 I’m currently improving my abilities about Node.JS, SQL, AWS, Google Cloud, Flask, Django, Blockchain, Cobol, .
+
+<img data-target="animated-image.replacedImage" alt="  " class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/d2166ad21e72d71d33d0458f3acbd3a0adbcb7e9ef3c13eed56be510476ca43b/68747470733a2f2f632e74656e6f722e636f6d2f32394f6b35706330697641414141414d2f676174696e686f2d6761746f2e676966" height="150" style="display: block; opacity: 1;"> 
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/216124372-27597c2f-74d4-4cef-993c-b27cab2ddc7f.png" alt="Astonished Face" width="120" style="max-width: 100%;"> -->
+
+<br>
+<p>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+    <img alt="Html5" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 8px;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+    <img alt="Css" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 8px;">
+  </a>
+
+  
+
+  <a href="https://github.com/mariabarkouzou">
+    <img alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-right: 8px;">
+  </a>
+
+  <a href="https://github.com/mariabarkouzou">
+    <img alt="p5.js" width="40px" src="https://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png" style="margin-right: 8px;">
+  </a>
+
+  <img alt="Netlify-Dark.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Netlify-Dark.svg" height="35">
+
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img alt="JavaScript" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 8px;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+    <img alt="Bootstrap" width="26px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="margin-right: 8px;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+    <img alt="Bootstrap" width="26px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="margin-right: 8px;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer" href="https://miro.medium.com/max/1400/0*8_FFAH6vg7XJLCDV.png">
+    <img alt="Bootstrap" width="26px" height="30" src="https://miro.medium.com/max/1400/0*8_FFAH6vg7XJLCDV.png" style="margin-right: 8px;">
+    
+  </a>
+
+  <img alt="PostgreSQL-Dark.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" height="35">
+
+ <img alt="Django.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" height="35">
+  <img alt="SQLite.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" height="35">
+
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 8px;">
+<!--   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"> -->
+
+<img alt="Flask-Dark.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" height="35">
+
+  <img align="center" alt="p5js" height="30" width="40" src="https://brm.io/matter-js/img/matter-js.svg" style="max-width: 100%;">
+</p>
+
+
+
+
+<!--<a target="_blank" rel="noopener noreferrer" href=" https://www.python.org/ "><img align="left" alt="bootstrap" width="26px" height="30" src=" https://www.python.org/static/img/python-logo@2x.png" style="max-width: 100%;"></a>-->
+ 
+
+ 
+ 
+
+ 
+<br>
+ 
+
+
+
+[![@bea's Holopin board](https://holopin.me/bea)](https://holopin.io/@bea)
+
+🧬 *Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder and stressors and love adventure, risk and uncertainty ”. 
+Nassim Nicholas Taleb*    
+
+
+
+Reach me out  :wink:
+
+
+
+* [Conteúdo - Greta Otho](https://www.instagram.com/g.otho/)
+
+* [Conteúdo - Tech . B](https://www.instagram.com/convexo.tech.b)
 
 <!--
 **skinmangoo/skinmangoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
